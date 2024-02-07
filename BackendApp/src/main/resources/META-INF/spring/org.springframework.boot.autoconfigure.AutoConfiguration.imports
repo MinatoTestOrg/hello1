@@ -1,0 +1,3 @@
+com.minatogithuborganization.hello1.config.ApplicationRepositoriesAutoConfiguration
+com.minatogithuborganization.hello1.config.ApplicationTransactionManagersAutoConfig
+com.minatogithuborganization.hello1.config.ApplicationProvidersAutoConfiguration
