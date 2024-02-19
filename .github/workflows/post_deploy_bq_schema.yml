@@ -3,7 +3,7 @@ name: BQ Table creation
 on: workflow_dispatch
 
 jobs:
-    bq_table_create_prod:
+  bq_table_create_prod:
     if: contains(github.ref, 'master')
     environment: prod
     runs-on: ubuntu-latest
